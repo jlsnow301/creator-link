@@ -8,6 +8,10 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+$APPDATA/npm
+$APPDATA
+.vscode/
+.venv/
 
 # macOS
-.DS_Store
+**/.DS_Store
